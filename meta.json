@@ -1,0 +1,15 @@
+{
+  "id": "NuclearOption-Kestrel-Compatibility",
+  "artifact": {
+    "fileName": "KestrelCompatibility.dll",
+    "version": "0.1.6",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.34",
+    "downloadUrl": null,
+    "hash": "sha256:d8d2ee4f353fb64f1f2b9cfa6622cbf9a915e58248548766b3884820ac481b3e",
+    "extends": null,
+    "dependencies": [],
+    "incompatibilities": []
+  }
+}

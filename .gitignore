@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.zip
+.vs/
+.idea/
+TestResults/
